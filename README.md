@@ -13,9 +13,6 @@
 
 ### 🌟 Interests
 - Front-end
-- Javascript
-- React.js
-- Electron
 - Data Visualization
 
 
