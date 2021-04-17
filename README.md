@@ -6,10 +6,10 @@
 
 
 ### :mortar_board: Education 
-- Undergraduate Student in School of Computer Engineering, Kwangwoon University 
+- Graduate Student in School of Computer Engineering, Kwangwoon University 
 
 ### 🏢: Kimcaddie
-- Front-end Engineer in Kimcaddie
+- Software Engineer in Kimcaddie
 
 ### 🌟 Interests
 - Front-end
